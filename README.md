@@ -25,13 +25,13 @@ In my free time, I enjoy visual arts, reading, cooking, origami, and game design
 
 ## Contacts
 
-email: innovationharry@gmail.com
+E-Mail: innovationharry@gmail.com
 
-linkedin: https://www.linkedin.com/in/yilin-lu/
+LinkedIn: https://www.linkedin.com/in/yilin-lu/
 
-github: https://github.com/HarryLu0708
+GitHub: https://github.com/HarryLu0708
 
 itch.io: https://astropower.itch.io/
 
-
+Personal Blog: https://astropowergame.com 
 
