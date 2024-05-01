@@ -23,6 +23,14 @@ My current research interests are human-computer interactions, visualization, an
 
 In my free time, I enjoy visual arts, reading, cooking, origami, and game design(especially strategic games). If we have any common research interests, please feel free to reach out to me using the methods below.
 
+## Research Interests
+
+- Human-Computer Interactions
+- Intelligence and Interactive Visualization
+- Explainable AI
+- AR & VR
+- Statistical Software and Data Mining
+
 ## Contacts
 
 E-Mail: innovationharry@gmail.com
