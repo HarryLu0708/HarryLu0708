@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Intro
 
-Hi, welcome to my Github page! My name is Yilin(Harry) Lu, and I’m pursuing my bachelor’s degree(with honors) at the University of Minnesota, Twin Cities. My majors are Computer Science, Mathematics, and Quantitative Economics. I also minored in Statistical Science and Astro-Informatics(Data Science in Astrophysics). Before college, I studied Mathematics at San Diego State University through the Dual Enrollment Option and graduated from Torrey Pines High School.
+Hi, welcome to my Github page! My name is Yilin(Harry) Lu, and I’m pursuing my bachelor’s degree(with honors) at the University of Minnesota, Twin Cities. I'm a triple-majors student majoring in Computer Science, Mathematics, and Quantitative Economics. I also minoring in Statistical Science and Astro-Informatics(Data Science in Astrophysics). Before college, I studied Mathematics at San Diego State University through the Dual Enrollment Option and graduated from Torrey Pines High School.
 
 My current research interests are human-computer interactions, visualization, and information science. I also have a deep passion for economics and astronomy. Currently, I’m working with [Prof. Qianwen Wang](https://github.com/wangqianwen0418) at [Visual Intelligence Lab, UMNTC](https://github.com/UMN-Visual-Intelligence-Lab). I also working as a Science Intern at TURBO Telescope Group at the Minnesota Institute for Astrophysics, where my PIs are Prof. Patrick Kelly and Dr. Mandeep S Gill.
 
