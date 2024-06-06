@@ -41,5 +41,8 @@ GitHub: https://github.com/HarryLu0708
 
 itch.io: https://astropower.itch.io/
 
+Zhihu（知乎）: https://www.zhihu.com/people/81-31-89-5 
+
 Personal Blog: https://astropowergame.com 
+
 
