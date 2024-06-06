@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Intro
 
-Hi, welcome to my Github page! My name is Yilin(Harry) Lu, and I’m pursuing my bachelor’s degree(with honors) at the University of Minnesota, Twin Cities. I'm a triple-majors student majoring in Computer Science, Mathematics, and Quantitative Economics. I also minoring in Statistical Science and Astro-Informatics(Data Science in Astrophysics). Before college, I studied Mathematics at San Diego State University through the Dual Enrollment Option and graduated from Torrey Pines High School.
+Hi, welcome to my Github page! My name is Yilin(Harry) Lu, and I’m pursuing my bachelor’s degree(with honors) at the University of Minnesota, Twin Cities. I'm a triple-major Computer Science, Mathematics, and Quantitative Economics student. I also minor in Statistical Science, emphasizing Astro-Informatics(Data Science in Astrophysics). Before college, I studied Mathematics at San Diego State University through the Dual Enrollment Option and graduated from Torrey Pines High School.
 
-My current research interests are human-computer interactions, visualization, and information science. I also have a deep passion for various topics such as economics, astronomy, arts & design, cognitive science, and even epidemiology. Currently, I’m working with [Prof. Qianwen Wang](https://github.com/wangqianwen0418) at [Visual Intelligence Lab, UMNTC](https://github.com/UMN-Visual-Intelligence-Lab). I also working as a Science Intern at TURBO Telescope Group at the Minnesota Institute for Astrophysics, where my PIs are Prof. Patrick Kelly and Dr. Mandeep S Gill.
+My current research interests are human-computer interactions, visualization, and data science in general. Currently, I’m primarily working with [Prof. Qianwen Wang](https://github.com/wangqianwen0418) at [Visual Intelligence Lab, UMNTC](https://github.com/UMN-Visual-Intelligence-Lab). I also participate in some research with [Prof. Zhu-Tian Chen](https://github.com/chenzhutian).  I was a science intern at TURBO Telescope Group at the Minnesota Institute for Astrophysics, where my work was crowdsourcing systems for science discovery, and my PIs were Prof. Patrick Kelly and Dr. Mandeep S Gill.
 
 In my free time, I enjoy visual arts, reading, cooking, origami, and game design(especially strategic games). If we have any common research interests, please feel free to reach out to me using the methods below.
 
@@ -28,8 +28,8 @@ In my free time, I enjoy visual arts, reading, cooking, origami, and game design
 - Human-Computer Interactions
 - Intelligence and Interactive Visualization
 - Explainable AI
-- AR & VR
 - Statistical Software and Data Mining
+- Gamification and Game Design
 
 ## Contacts
 
