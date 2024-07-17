@@ -26,10 +26,10 @@ In my free time, I enjoy visual arts, reading, cooking, origami, and game design
 ## Research Interests
 
 - Human-Computer Interactions
-- Intelligence and Interactive Visualization
-- Explainable AI
-- Statistical Software and Data Mining
-- Gamification and Game Design
+- Intelligence, Interdisciplinary, and Interactive Visualization
+- Explorable Explanation
+- Data Mining Techniques in Science and Social Science
+- Game Design and Development
 
 ## Contacts
 
