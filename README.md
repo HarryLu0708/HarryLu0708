@@ -25,7 +25,12 @@ In my free time, I enjoy visual arts, reading, cooking, origami, and game design
 
 ## Research Interests
 
+### Broad Research Field
+
 - Human-Computer Interactions
+
+### Specific Research Fields
+
 - Intelligence, Interdisciplinary, and Interactive Information Visualization
 - Explorable Explanation for Complex Systems
 - Data Mining Techniques in Science and Social Science
