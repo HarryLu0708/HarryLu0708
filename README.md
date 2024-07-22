@@ -27,7 +27,7 @@ In my free time, I enjoy visual arts, reading, cooking, origami, and game design
 
 - Human-Computer Interactions
 - Intelligence, Interdisciplinary, and Interactive Information Visualization
-- Explorable Explanation 4 Explainable AI
+- Explorable Explanation for Complex Systems
 - Data Mining Techniques in Science and Social Science
 - Game Design and Development
 - Creativity Supported Computing
