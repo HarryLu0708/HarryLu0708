@@ -35,7 +35,7 @@ In my free time, I enjoy visual arts, reading, cooking, origami, and game design
 - Explorable Explanation for Complex Systems
 - Data Mining Techniques in Science and Social Science
 - Game Design and Development
-- Creativity Supported Computing
+- Creativity Supported Computing(Creativity Support Tools)
 
 ## Contacts
 
